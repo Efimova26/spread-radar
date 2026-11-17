@@ -1,4 +1,3 @@
-"""Тесты без интернета: все четыре биржи подменяются фейковыми ответами (httpx.MockTransport)."""
 import asyncio
 import sys
 from pathlib import Path
